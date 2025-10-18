@@ -1,2 +1,6 @@
 fastapi
 uvicorn
+numpy
+opencv-python
+pandas
+face_recognition
